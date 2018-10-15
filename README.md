@@ -1,2 +1,2 @@
 # python_hw
-parsing https://postnauka.ru/
+something wrong with https://postnauka.ru/
